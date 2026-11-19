@@ -1,0 +1,6 @@
+git init
+git add safe_tools.py README.md
+git commit -m "Complete Week 6 assignment"
+git branch -M main
+git remote add origin https://github.com/akisaphilis005-create/plp-python-week6.git
+git push -u origin main
